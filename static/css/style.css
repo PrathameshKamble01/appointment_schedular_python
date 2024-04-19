@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.font-style {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 30px;
+}
+
+.bg-nav{
+    background: #FDFC47;
+    background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);
+    background: linear-gradient(to right, #24FE41, #FDFC47);
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.mt-130{
+    margin-top: 130px;
+}
+
+.mt-250{
+    margin-top: 250px;
+}
+
+input {
+    border:#000000;
+}
